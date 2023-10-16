@@ -1,0 +1,15 @@
+<ul>
+    {%- assign filteredTricks = site.data.tricks | where: "balls", include.count -%}
+    {%- for trick in filteredTricks -%}
+        {%- if trick.navname -%}
+        <li><a href="{{ trick.url | prepend: "/" | relativize_url }}">{{ trick.navname }}</a></li>
+        {%- endif -%}
+        {%- if trick.subtricks -%}
+            <ul>
+            {%- for subtrick in trick.subtricks -%}
+                <li><a href="{{ subtrick.url | prepend: "/" | relativize_url }}">{{ subtrick.name }}</a></li>
+            {%- endfor -%}
+            </ul>
+        {%- endif -%}
+    {%- endfor -%}
+</ul>

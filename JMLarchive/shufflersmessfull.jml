@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<!DOCTYPE jml SYSTEM "file://jml.dtd">
+<jml version="1.2">
+<pattern>
+<title>[42]25313322</title>
+<prop type="ball"/>
+<setup jugglers="1" paths="3" props="1,1,1"/>
+<symmetry type="delay" pperm="(1)(2)(3)" delay="4.5"/>
+<symmetry type="switchdelay" jperm="(1,1*)" pperm="(1,3)(2)"/>
+<event x="10" y="0" z="0" t="0" hand="1:right">
+<throw path="1" type="toss"/>
+<holding path="2"/>
+</event>
+<event x="12.8" y="0" z="0" t="0.175" hand="1:right">
+<holding path="2"/>
+</event>
+<event x="-18.7924" y="0" z="0" t="0.25" hand="1:left">
+<holding path="3"/>
+</event>
+<event x="-16.415" y="0" z="0" t="0.425" hand="1:left">
+<holding path="3"/>
+</event>
+<event x="18" y="0" z="0" t="0.5" hand="1:right">
+<throw path="2" type="toss"/>
+</event>
+<event x="1.7184" y="0" z="0.1953" t="0.675" hand="1:right">
+<catch path="1"/>
+</event>
+<event x="-19.612" y="0" z="7.2217" t="0.75" hand="1:left">
+<throw path="3" type="toss"/>
+</event>
+<event x="7.3131" y="0" z="0.1951" t="0.8886" hand="1:right">
+<throw path="1" type="toss"/>
+</event>
+<event x="-11.4577" y="-0" z="0.3903" t="1.0092" hand="1:left">
+<catch path="1"/>
+</event>
+<event x="0.5275" y="0" z="11.3205" t="1.175" hand="1:right">
+<catch path="3"/>
+</event>
+<event x="25.0845" y="-0" z="-1.7566" t="1.2259" hand="1:left">
+<throw path="1" type="toss"/>
+</event>
+<event x="11.0562" y="-0" z="-0.1953" t="1.425" hand="1:left">
+<catch path="2"/>
+</event>
+<event x="-11.8121" y="0" z="11.7109" t="1.4639" hand="1:right">
+<throw path="3" type="toss"/>
+</event>
+<event x="24.5349" y="0" z="18.1518" t="1.675" hand="1:right">
+<catch path="1"/>
+</event>
+<event x="-6.0764" y="-0" z="-0.4531" t="1.6784" hand="1:left">
+<holding path="2"/>
+</event>
+<event x="-3.8456" y="-0" z="-0.1951" t="1.9731" hand="1:left">
+<catch path="3"/>
+<holding path="2"/>
+</event>
+<event x="25.5849" y="0" z="0" t="2" hand="1:right">
+<holding path="1"/>
+</event>
+<event x="23.2075" y="0" z="0" t="2.175" hand="1:right">
+<holding path="1"/>
+</event>
+</pattern>
+</jml>

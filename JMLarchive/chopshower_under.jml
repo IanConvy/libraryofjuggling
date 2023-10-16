@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<!DOCTYPE jml SYSTEM "file://jml.dtd">
+<jml version="1.2">
+<pattern>
+<title>Chop Shower</title>
+<prop type="ball"/>
+<setup jugglers="1" paths="3" props="1,1,1"/>
+<symmetry type="delay" pperm="(1,3,2)" delay="0.5599"/>
+<event x="-22.8081" y="0" z="-9.9452" t="0" hand="1:right">
+<throw path="1" type="toss"/>
+</event>
+<event x="22.1644" y="0" z="-8.2907" t="0.0293" hand="1:left">
+<catch path="2"/>
+</event>
+<event x="-0.8262" y="0" z="-16.1396" t="0.1385" hand="1:left">
+<holding path="2"/>
+</event>
+<event x="27.4793" y="0" z="28.098" t="0.2561" hand="1:right">
+<catch path="3"/>
+</event>
+<event x="-24.7984" y="-0" z="-0.0071" t="0.2825" hand="1:left">
+<throw path="2" type="toss"/>
+</event>
+<event x="5.2095" y="-0" z="-1.4992" t="0.3919" hand="1:left">
+</event>
+<event x="0.4316" y="0" z="11.5669" t="0.3919" hand="1:right">
+<holding path="3"/>
+</event>
+</pattern>
+</jml>

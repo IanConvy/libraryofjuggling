@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta content="en-us" http-equiv="Content-Language" />
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+        <title>Library of Juggling - {{ page.title }}</title>
+        <link rel='stylesheet' href="{{ "/main.css" | relativize_url }}"/>
+    </head>
+    <body>
+        <img id="banner" alt="Library of Juggling" height="193" src="{{ "/jugglebanner.jpg" | relativize_url }}" width="716" />
+        <div id="sidebar">
+            <p id="navheader">Navigation</p>
+            <ul>
+                <li><a href="{{ "/Home.html" | relativize_url }}">Homepage</a></li>
+                <li><a href="{{ "/UpdateLog.html" | relativize_url }}">Update Log</a></li>
+                <li><a href="{{ "/TricksByDifficulty.html" | relativize_url }}">Tricks by Difficulty</a></li>
+            </ul>
+            <ul>
+                <li>
+                    <h3>Three Ball Patterns</h3>
+                    {%- include prop_count.html count=3 -%}
+                </li>
+                <li>
+                    <h3>Four Ball Patterns</h3>
+                    {%- include prop_count.html count=4 -%}
+                </li>
+                <li>
+                    <h3>Five Ball Patterns</h3>
+                    {%- include prop_count.html count=5 -%}
+                </li>
+                <li>
+                    <h3>Six Ball Patterns</h3>
+                    {%- include prop_count.html count=6 -%}
+                </li>
+            </ul>
+        </div>
+        <div id="content">
+            {{ content }}
+        </div>
+        <div id="footer">
+            <p>If you have any comments, criticisms, or requests, drop me an email at 
+                <script language="JavaScript">
+                    var username = "libraryofjuggling";
+                    var hostname = "gmail.com";
+                    var linktext = username + "@" + hostname ;
+                    document.write(
+                        "<a href='" + "mail" + "to:" + username + 
+                        "@" + hostname + "'>" + linktext + "</a>"
+                    );
+                </script>.
+            </p>
+        </div>
+    </body>
+</html>
+

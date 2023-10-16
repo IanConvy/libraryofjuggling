@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<!DOCTYPE jml SYSTEM "file://jml.dtd">
+<jml version="1.2">
+<pattern>
+<title>345 Mills</title>
+<prop type="ball"/>
+<setup jugglers="1" paths="4" props="1,1,1,1"/>
+<symmetry type="delay" pperm="(1)(2,3,4)" delay="1.472"/>
+<symmetry type="switchdelay" jperm="(1,1*)" pperm="(1)(2,4,3)"/>
+<event x="-25" y="0" z="0" t="0" hand="1:right">
+<throw path="1" type="toss"/>
+</event>
+<event x="2.5" y="0" z="0" t="0.1717" hand="1:right">
+<catch path="3"/>
+</event>
+<event x="-25" y="0" z="0" t="0.2453" hand="1:left">
+<throw path="2" type="toss"/>
+</event>
+<event x="2.5" y="0" z="0" t="0.417" hand="1:left">
+<catch path="1"/>
+</event>
+<event x="-25" y="0" z="0" t="0.4906" hand="1:right">
+<throw path="3" type="toss"/>
+</event>
+<event x="-12.3528" y="0" z="6.4637" t="0.5924" hand="1:right">
+</event>
+<event x="0" y="0" z="0" t="0.6624" hand="1:right">
+<catch path="4"/>
+</event>
+</pattern>
+</jml>

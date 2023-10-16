@@ -1,0 +1,974 @@
+- name: "Reverse Crossed-Arm Shower"
+  url: Tricks/3balltricks/ReverseCrossedArmShower.html
+  difficulty: 7
+  balls: 3
+- name: "Symmetric Georgian Shuffle"
+  url: Tricks/3balltricks/SymmetricGeorgianShuffle.html
+  difficulty: 5
+  balls: 3
+- name: Al's Slide
+  url: Tricks/3balltricks/Al'sSlide.html
+  difficulty: 4
+  balls: 3
+  navname: Al's Slide
+- name: Alex
+  url: Tricks/3balltricks/Alex.html
+  difficulty: 7
+  balls: 3
+  navname: Alex
+- name: Arches
+  url: Tricks/4balltricks/Arches.html
+  difficulty: 7
+  balls: 4
+- name: Arrow of Asai
+  url: Tricks/3balltricks/ArrowofAsai.html
+  difficulty: 6
+  balls: 3
+  navname: Arrow of Asai
+- name: Backcrosses
+  url: Tricks/3balltricks/Backcrosses.html
+  difficulty: 7
+  balls: 3
+  navname: Backcrosses
+- name: Bizarre Box
+  url: Tricks/3balltricks/BizarreBox.html
+  difficulty: 7
+  balls: 3
+- name: Boston Mess
+  url: Tricks/3balltricks/BostonMess.html
+  difficulty: 6
+  balls: 3
+  subtricks:
+  - name: Cherry Picker
+    url: Tricks/3balltricks/CherryPicker.html
+  navname: Boston Mess
+- name: Boston Shuffle
+  url: Tricks/3balltricks/BostonShuffle.html
+  difficulty: 5
+  balls: 3
+  subtricks:
+  - name: Burke's Slam
+    url: Tricks/3balltricks/Burke'sSlam.html
+  - name: Peter's Shuffle
+    url: Tricks/3balltricks/Peter'sShuffle.html
+  navname: Boston Shuffle
+- name: Box
+  url: Tricks/3balltricks/Box.html
+  difficulty: 6
+  balls: 3
+  subtricks:
+  - name: Bizarre Box
+    url: Tricks/3balltricks/BizarreBox.html
+  - name: Broken Box
+    url: Tricks/3balltricks/BrokenBox.html
+  - name: Burst Box
+    url: Tricks/3balltricks/BurstBox.html
+  - name: Extended Box
+    url: Tricks/3balltricks/ExtendedBox.html
+  - name: Gilligan's Box
+    url: Tricks/3balltricks/Gilligan'sBox.html
+  - name: Karas' Box
+    url: Tricks/3balltricks/Karas'Box.html
+  - name: Luke's Shuffle
+    url: Tricks/3balltricks/Luke'sShuffle.html
+  - name: N-Box
+    url: Tricks/3balltricks/N-Box.html
+  - name: Inverted Box
+    url: Tricks/3balltricks/InvertedBox.html
+  - name: Penman's Box
+    url: Tricks/3balltricks/Penman'sBox.html
+  - name: Swap Box
+    url: Tricks/3balltricks/SwapBox.html
+  - name: Switched Box
+    url: Tricks/3balltricks/SwitchedBox.html
+  - name: Threaded Box
+    url: Tricks/3balltricks/ThreadedBox.html
+  - name: True Box
+    url: Tricks/3balltricks/TrueBox.html
+  - name: Underarm Box
+    url: Tricks/3balltricks/UnderarmBox.html
+  navname: Box
+- name: Four Ball Box
+  url: Tricks/4balltricks/FourBallBox.html
+  difficulty: 7
+  balls: 4
+  subtricks:
+  - name: Stacked Variation
+    url: Tricks/4balltricks/FourBallStackedBox.html
+  navname: Box
+- name: Broken Box
+  url: Tricks/3balltricks/BrokenBox.html
+  difficulty: 6
+  balls: 3
+- name: Broken Shower
+  url: Tricks/3balltricks/BrokenShower.html
+  difficulty: 5
+  balls: 3
+- name: Buffalo Shuffle
+  url: Tricks/3balltricks/BuffaloShuffle.html
+  difficulty: 4
+  balls: 3
+- name: Burke's Barrage
+  url: Tricks/3balltricks/Burke'sBarrage.html
+  difficulty: 4
+  balls: 3
+  subtricks:
+  - name: Takeouts
+    url: Tricks/3balltricks/Takeouts.html
+  navname: Burke's Barrage
+- name: Burke's Slam
+  url: Tricks/3balltricks/Burke'sSlam.html
+  difficulty: 5
+  balls: 3
+- name: Burst Box
+  url: Tricks/3balltricks/BurstBox.html
+  difficulty: 6
+  balls: 3
+- name: Cascade
+  url: Tricks/3balltricks/Cascade.html
+  difficulty: 2
+  balls: 3
+  subtricks:
+  - name: Reverse Cascade
+    url: Tricks/3balltricks/ReverseCascade.html
+  - name: High-Low Var.
+    url: Tricks/3balltricks/High-LowCascade.html
+  navname: Cascade
+- name: Five Ball Cascade
+  url: Tricks/5balltricks/FiveBallCascade.html
+  difficulty: 9
+  balls: 5
+  subtricks:
+  - name: Reverse Cascade
+    url: Tricks/5balltricks/FiveBallReverseCascade.html
+  navname: Cascade
+- name: Charley
+  url: Tricks/3balltricks/Charley.html
+  difficulty: 5
+  balls: 3
+- name: Cherry Picker
+  url: Tricks/3balltricks/CherryPicker.html
+  difficulty: 6
+  balls: 3
+- name: Chop Shower
+  url: Tricks/3balltricks/ChopShower.html
+  difficulty: 6
+  balls: 3
+- name: Chops
+  url: Tricks/3balltricks/Chops.html
+  difficulty: 4
+  balls: 3
+  subtricks:
+  - name: Reverse Chops
+    url: Tricks/3balltricks/ReverseChops.html
+  navname: Chops
+- name: Cliff's Confusion
+  url: Tricks/4balltricks/Cliff'sConfusion.html
+  difficulty: 6
+  balls: 4
+  navname: Cliff's Confusion
+- name: Columns
+  url: Tricks/3balltricks/Columns.html
+  difficulty: 3
+  balls: 3
+  subtricks:
+  - name: Box Variation
+    url: Tricks/3balltricks/ColumnBoxVar.html
+  - name: Crossunder
+    url: Tricks/3balltricks/Crossunder.html
+  - name: Infinity
+    url: Tricks/3balltricks/Infinity.html
+  - name: Matt's Mess
+    url: Tricks/3balltricks/Matt'sMess.html
+  - name: Overthrow Var.
+    url: Tricks/3balltricks/ColumnOverVar.html
+  - name: Rainbow Cross
+    url: Tricks/3balltricks/RainbowArches.html
+  - name: Reverse Crossunder
+    url: Tricks/3balltricks/ReverseCrossunder.html
+  - name: Reverse Infinity
+    url: Tricks/3balltricks/ReverseInfinity.html
+  - name: Shower Variation
+    url: Tricks/3balltricks/ColumnShowVar.html
+  - name: Shuffle-Switch
+    url: Tricks/3balltricks/Shuffle-Switch.html
+  navname: Columns
+- name: Four Ball Columns
+  url: Tricks/4balltricks/FourBallColumns.html
+  difficulty: 5
+  balls: 4
+  subtricks:
+  - name: Rainbow Cross
+    url: Tricks/4balltricks/FourBallRainbowCross.html
+  navname: Columns
+- name: 'Columns: Box Variation'
+  url: Tricks/3balltricks/ColumnBoxVar.html
+  difficulty: 5
+  balls: 3
+- name: 'Columns: Overthrow Variation'
+  url: Tricks/3balltricks/ColumnOverVar.html
+  difficulty: 3
+  balls: 3
+- name: 'Columns: Shower Variation'
+  url: Tricks/3balltricks/ColumnShowVar.html
+  difficulty: 5
+  balls: 3
+- name: Compressed Olas
+  url: Tricks/3balltricks/CompressedOlas.html
+  difficulty: 6
+  balls: 3
+- name: "Crossed-Arm Shower"
+  url: Tricks/3balltricks/CrossedArmShower.html
+  difficulty: 7
+  balls: 3
+- name: Crossed-Arm Cascade
+  url: Tricks/3balltricks/CrossedArmCascade.html
+  difficulty: 4
+  balls: 3
+  subtricks:
+  - name: Reverse Variation
+    url: Tricks/3balltricks/CrossedArmReverseCascade.html
+  navname: Crossed-Arm Cascade
+- name: Crossed-Arm Factory
+  url: Tricks/3balltricks/CrossedArmFactory.html
+  difficulty: 5
+  balls: 3
+- name: Crossed-Arm Reverse Cascade
+  url: Tricks/3balltricks/CrossedArmReverseCascade.html
+  difficulty: 4
+  balls: 3
+- name: Crossunder
+  url: Tricks/3balltricks/Crossunder.html
+  difficulty: 4
+  balls: 3
+- name: Dancey's Devilment
+  url: Tricks/4balltricks/Dancey'sDevilment.html
+  difficulty: 6
+  balls: 4
+  navname: Dancey's Devilment
+- name: "Davenport Shuffle"
+  url: Tricks/3balltricks/DavenportShuffle.html
+  difficulty: 4
+  balls: 3
+- name: David's Dilemma
+  url: Tricks/3balltricks/David'sDilemma.html
+  difficulty: 4
+  balls: 3
+  navname: David's Dilemma
+- name: Extended Box
+  url: Tricks/3balltricks/ExtendedBox.html
+  difficulty: 6
+  balls: 3
+- name: Factory
+  url: Tricks/3balltricks/Factory.html
+  difficulty: 3
+  balls: 3
+  subtricks:
+  - name: Crossed-Arm Var.
+    url: Tricks/3balltricks/CrossedArmFactory.html
+  - name: Relf's Factory
+    url: Tricks/3balltricks/Relf'sFactory.html
+  - name: Reverse Factory
+    url: Tricks/3balltricks/ReverseFactory.html
+  - name: Zebra Factory
+    url: Tricks/3balltricks/ZebraFactory.html
+  navname: Factory
+- name: Fake Columns
+  url: Tricks/3balltricks/FakeColumns.html
+  difficulty: 2
+  balls: 3
+  subtricks:
+  - name: Yo-Yo
+    url: Tricks/3balltricks/Yo-Yo.html
+  - name: Oy-Oy
+    url: Tricks/3balltricks/Oy-Oy.html
+  navname: Fake Columns
+- name: Fake Mess
+  url: Tricks/3balltricks/FakeMess.html
+  difficulty: 3
+  balls: 3
+- name: Five Ball Reverse Cascade
+  url: Tricks/5balltricks/FiveBallReverseCascade.html
+  difficulty: 9
+  balls: 5
+- name: Flipped Mess
+  url: Tricks/3balltricks/FlippedMess.html
+  difficulty: 5
+  balls: 3
+- name: Flo's Mess
+  url: Tricks/3balltricks/Flo'sMess.html
+  difficulty: 5
+  balls: 3
+- name: Flying Disco Drop
+  url: Tricks/3balltricks/FlyingDiscoDrop.html
+  difficulty: 5
+  balls: 3
+  navname: Flying Disco Drop
+- name: Follow
+  url: Tricks/3balltricks/Follow.html
+  difficulty: 4
+  balls: 3
+  navname: Follow
+- name: Forklift
+  url: Tricks/3balltricks/Forklift.html
+  difficulty: 5
+  balls: 3
+  navname: Forklift
+- name: Fountain
+  url: Tricks/4balltricks/Fountain.html
+  difficulty: 7
+  balls: 4
+  subtricks:
+  - name: Reverse Fountain
+    url: Tricks/4balltricks/ReverseFountain.html
+  navname: Fountain
+- name: Four Ball Half-Mess
+  url: Tricks/4balltricks/FourBallHalf-Mess.html
+  difficulty: 7
+  balls: 4
+- name: Four Ball Rainbow Cross
+  url: Tricks/4balltricks/FourBallRainbowCross.html
+  difficulty: 6
+  balls: 4
+- name: Four Ball Stacked Box
+  url: Tricks/4balltricks/FourBallStackedBox.html
+  difficulty: 7
+  balls: 4
+- name: Frances
+  url: Tricks/3balltricks/Frances.html
+  difficulty: 5
+  balls: 3
+- name: Frantic Cascade
+  url: Tricks/3balltricks/FranticCascade.html
+  difficulty: 6
+  balls: 3
+  navname: Frantic Cascade
+- name: Frostbite
+  url: Tricks/3balltricks/Frostbite.html
+  difficulty: 6
+  balls: 3
+  navname: Frostbite
+- name: Georgian Scuffle
+  url: Tricks/3balltricks/GeorgianScuffle.html
+  difficulty: 5
+  balls: 3
+  subtricks:
+  - name: Symmetric Var.
+    url: Tricks/3balltricks/SymmetricGeorgianScuffle.html
+  navname: Georgian Scuffle
+- name: "Georgian Shuffle"
+  url: Tricks/3balltricks/GeorgianShuffle.html
+  difficulty: 4
+  balls: 3
+  subtricks:
+  - name: Buffalo Shuffle
+    url: Tricks/3balltricks/BuffaloShuffle.html
+  - name: Davenport Shuffle
+    url: Tricks/3balltricks/DavenportShuffle.html
+  - name: Singapore Shuffle
+    url: Tricks/3balltricks/SingaporeShuffle.html
+  - name: Symmetric Var.
+    url: Tricks/3balltricks/SymmetricGeorgianShuffle.html
+  navname: Georgian Shuffle
+- name: Gilligan's Box
+  url: Tricks/3balltricks/Gilligan'sBox.html
+  difficulty: 6
+  balls: 3
+- name: Grace
+  url: Tricks/3balltricks/Grace.html
+  difficulty: 4
+  balls: 3
+  navname: Grace
+- name: Half-Mess
+  url: Tricks/3balltricks/Half-Mess.html
+  difficulty: 4
+  balls: 3
+- name: Five Ball Half-Shower
+  url: Tricks/5balltricks/FiveBallHalf-Shower.html
+  difficulty: 9
+  balls: 5
+  navname: Half-Shower
+- name: Four Ball Half-Shower
+  url: Tricks/4balltricks/FourBallHalfShower.html
+  difficulty: 6
+  balls: 4
+  subtricks:
+  - name: Arches
+    url: Tricks/4balltricks/Arches.html
+  navname: Half-Shower
+- name: Half-Shower
+  url: Tricks/3balltricks/Half-Shower.html
+  difficulty: 3
+  balls: 3
+  navname: Half-Shower
+- name: Hands of Time
+  url: Tricks/3balltricks/HandsOfTime.html
+  difficulty: 4
+  balls: 3
+  navname: Hands of Time
+- name: Harrison's Hang
+  url: Tricks/3balltricks/Harrison'sHang.html
+  difficulty: 6
+  balls: 3
+  navname: Harrison's Hang
+- name: High-Low Cascade
+  url: Tricks/3balltricks/High-LowCascade.html
+  difficulty: 4
+  balls: 3
+- name: High-Low Shower
+  url: Tricks/3balltricks/High-LowShower.html
+  difficulty: 5
+  balls: 3
+- name: Icelandic Shuffle
+  url: Tricks/3balltricks/IcelandicShuffle.html
+  difficulty: 5
+  balls: 3
+  navname: Icelandic Shuffle
+- name: Infinity
+  url: Tricks/3balltricks/Infinity.html
+  difficulty: 3
+  balls: 3
+- name: Inverted Box
+  url: Tricks/3balltricks/InvertedBox.html
+  difficulty: 7
+  balls: 3
+- name: Inverted Shower
+  url: Tricks/3balltricks/InvertedShower.html
+  difficulty: 8
+  balls: 3
+  navname: Inverted Shower
+- name: Jeanne
+  url: Tricks/3balltricks/Jeanne.html
+  difficulty: 6
+  balls: 3
+  navname: Jeanne
+- name: Juggler's Tennis
+  url: Tricks/3balltricks/JugglersTennis.html
+  difficulty: 2
+  balls: 3
+  navname: Juggler's Tennis
+- name: Karas' Box
+  url: Tricks/3balltricks/Karas'Box.html
+  difficulty: 7
+  balls: 3
+- name: Kato's Crux
+  url: Tricks/3balltricks/Kato'sCrux.html
+  difficulty: 5
+  balls: 3
+  navname: Kato's Crux
+- name: King of Hearts
+  url: Tricks/3balltricks/KingofHearts.html
+  difficulty: 4
+  balls: 3
+  navname: King of Hearts
+- name: Kingston Shuffle
+  url: Tricks/3balltricks/KingstonShuffle.html
+  difficulty: 4
+  balls: 3
+  navname: Kingston Shuffle
+- name: Kraken
+  url: Tricks/3balltricks/Kraken.html
+  difficulty: 6
+  balls: 3
+  navname: Kraken
+- name: Levels
+  url: Tricks/3balltricks/Levels.html
+  difficulty: 7
+  balls: 3
+  navname: Levels
+- name: Lisa
+  url: Tricks/4balltricks/Lisa.html
+  difficulty: 5
+  balls: 4
+  navname: Lisa
+- name: Low Shuffle
+  url: Tricks/3balltricks/LowShuffle.html
+  difficulty: 7
+  balls: 3
+- name: Luke's Lobotomy
+  url: Tricks/3balltricks/Luke'sLobotomy.html
+  difficulty: 6
+  balls: 3
+  navname: Luke's Lobotomy
+- name: Luke's Shuffle
+  url: Tricks/3balltricks/Luke'sShuffle.html
+  difficulty: 7
+  balls: 3
+- name: Maka's Mess
+  url: Tricks/3balltricks/Maka'sMess.html
+  difficulty: 5
+  balls: 3
+  navname: Maka's Mess
+- name: Mangham's Mangle
+  url: Tricks/3balltricks/Mangham'sMangle.html
+  difficulty: 4
+  balls: 3
+  navname: Mangham's Mangle
+- name: Marden's Marvel
+  url: Tricks/3balltricks/Marden'sMarvel.html
+  difficulty: 6
+  balls: 3
+  navname: Marden's Marvel
+- name: Martin
+  url: Tricks/5balltricks/Martin.html
+  difficulty: 6
+  balls: 5
+  navname: Martin
+- name: Matt's Mess
+  url: Tricks/3balltricks/Matt'sMess.html
+  difficulty: 5
+  balls: 3
+- name: Mike's Mess
+  url: Tricks/3balltricks/Mike'sMess.html
+  difficulty: 4
+  balls: 3
+  navname: Mike's Mess
+- name: Four Ball Mills Mess
+  url: Tricks/4balltricks/FourBallMillsMess.html
+  difficulty: 8
+  balls: 4
+  subtricks:
+  - name: Half-Mess
+    url: Tricks/4balltricks/FourBallHalf-Mess.html
+  - name: 534 Mills Mess
+    url: Tricks/4balltricks/534MillsMess.html
+  navname: Mills Mess
+- name: Mills Mess
+  url: Tricks/3balltricks/MillsMess.html
+  difficulty: 5
+  balls: 3
+  subtricks:
+  - name: 441 Mills Mess
+    url: Tricks/3balltricks/441MillsMess.html
+  - name: 531 Mills Mess
+    url: Tricks/3balltricks/531MillsMess.html
+  - name: Charley
+    url: Tricks/3balltricks/Charley.html
+  - name: Fake Mess
+    url: Tricks/3balltricks/FakeMess.html
+  - name: Flipped Mess
+    url: Tricks/3balltricks/FlippedMess.html
+  - name: Flo's Mess
+    url: Tricks/3balltricks/Flo'sMess.html
+  - name: Half-Mess
+    url: Tricks/3balltricks/Half-Mess.html
+  - name: Reverse Mills Mess
+    url: Tricks/3balltricks/ReverseMillsMess.html
+  - name: Mills Mess Shower
+    url: Tricks/3balltricks/MillsMessShower.html
+  navname: Mills Mess
+- name: Mills Mess Shower
+  url: Tricks/3balltricks/MillsMessShower.html
+  difficulty: 5
+  balls: 3
+- name: Five Ball Multiplex Columns
+  url: Tricks/5balltricks/FiveBallMultiplexColumns.html
+  difficulty: 7
+  balls: 5
+  navname: Multiplex Columns
+- name: N-Box
+  url: Tricks/3balltricks/N-Box.html
+  difficulty: 7
+  balls: 3
+- name: Nelson's Nemesis
+  url: Tricks/3balltricks/Nelson'sNemesis.html
+  difficulty: 5
+  balls: 3
+  navname: Nelson's Nemesis
+- name: Olas
+  url: Tricks/3balltricks/Olas.html
+  difficulty: 6
+  balls: 3
+  subtricks:
+  - name: Compressed Olas
+    url: Tricks/3balltricks/CompressedOlas.html
+  navname: Olas
+- name: Orinoco Flow
+  url: Tricks/3balltricks/OrinocoFlow.html
+  difficulty: 5
+  balls: 3
+- name: Orka's Mess
+  url: Tricks/3balltricks/Orka'sMess.html
+  difficulty: 5
+  balls: 3
+  navname: Orka's Mess
+- name: Oy-Oy
+  url: Tricks/3balltricks/Oy-Oy.html
+  difficulty: 2
+  balls: 3
+- name: Pendulum Drop
+  url: Tricks/3balltricks/PendulumDrop.html
+  difficulty: 4
+  balls: 3
+  navname: Pendulum Drop
+- name: Penman's Box
+  url: Tricks/3balltricks/Penman'sBox.html
+  difficulty: 6
+  balls: 3
+- name: Penman's Pandemonium
+  url: Tricks/3balltricks/Penman'sPandemonium.html
+  difficulty: 4
+  balls: 3
+  navname: Penman's Pandemonium
+- name: Peter's Shuffle
+  url: Tricks/3balltricks/Peter'sShuffle.html
+  difficulty: 5
+  balls: 3
+- name: Pistons
+  url: Tricks/4balltricks/Pistons.html
+  difficulty: 7
+  balls: 4
+  subtricks:
+  - name: Synch. Pistons
+    url: Tricks/4balltricks/SynchPistons.html
+  navname: Pistons
+- name: Rainbow Cross
+  url: Tricks/3balltricks/RainbowArches.html
+  difficulty: 3
+  balls: 3
+- name: Relf's Factory
+  url: Tricks/3balltricks/Relf'sFactory.html
+  difficulty: 5
+  balls: 3
+- name: Relf's Revenge
+  url: Tricks/3balltricks/Relf'sRevenge.html
+  difficulty: 5
+  balls: 3
+  navname: Relf's Revenge
+- name: "Relf's Revenge 6"
+  url: Tricks/3balltricks/Relf'sRevenge6.html
+  difficulty: 6
+  balls: 3
+  navname: Relf's Revenge 6
+- name: "Relf's Rubensteins"
+  url: Tricks/3balltricks/Relf'sRubensteins.html
+  difficulty: 6
+  balls: 3
+  navname: Relf's Rubensteins
+- name: Reverse 441
+  url: Tricks/3balltricks/Reverse441(Half-Box).html
+  difficulty: 4
+  balls: 3
+- name: Reverse Cascade
+  url: Tricks/3balltricks/ReverseCascade.html
+  difficulty: 4
+  balls: 3
+- name: Reverse Chops
+  url: Tricks/3balltricks/ReverseChops.html
+  difficulty: 4
+  balls: 3
+- name: Reverse Crossunder
+  url: Tricks/3balltricks/ReverseCrossunder.html
+  difficulty: 4
+  balls: 3
+- name: Reverse Factory
+  url: Tricks/3balltricks/ReverseFactory.html
+  difficulty: 4
+  balls: 3
+- name: Reverse Fountain
+  url: Tricks/4balltricks/ReverseFountain.html
+  difficulty: 7
+  balls: 4
+- name: Reverse Infinity
+  url: Tricks/3balltricks/ReverseInfinity.html
+  difficulty: 3
+  balls: 3
+- name: Reverse Mess
+  url: Tricks/3balltricks/ReverseMillsMess.html
+  difficulty: 5
+  balls: 3
+- name: Reverse Synchronous Fountain
+  url: Tricks/4balltricks/ReverseSynchFountain.html
+  difficulty: 7
+  balls: 4
+- name: "Ripley's Rainbow"
+  url: Tricks/3balltricks/Ripley'sRainbow.html
+  difficulty: 4
+  balls: 3
+  navname: Ripley's Rainbow
+- name: Rolf's Wave
+  url: Tricks/3balltricks/Rolf'sWave.html
+  difficulty: 4
+  balls: 3
+  navname: Rolf's Wave
+- name: Romeo's Revenge
+  url: Tricks/3balltricks/Romeo'sRevenge.html
+  difficulty: 6
+  balls: 3
+  navname: Romeo's Revenge
+- name: Rubenstein's Revenge
+  url: Tricks/3balltricks/Rubenstein'sRevenge.html
+  difficulty: 6
+  balls: 3
+  navname: Rubenstein's Revenge
+- name: Sandbox Shuffle
+  url: Tricks/3balltricks/SandboxShuffle.html
+  difficulty: 5
+  balls: 3
+  subtricks:
+  - name: Frances
+    url: Tricks/3balltricks/Frances.html
+  navname: Sandbox Shuffle
+- name: Five Ball Shower
+  url: Tricks/5balltricks/FiveBallShower.html
+  difficulty: 9
+  balls: 5
+  navname: Shower
+- name: Four Ball Shower
+  url: Tricks/4balltricks/FourBallShower.html
+  difficulty: 7
+  balls: 4
+  navname: Shower
+- name: Shower
+  url: Tricks/3balltricks/Shower.html
+  difficulty: 5
+  balls: 3
+  subtricks:
+  - name: Broken Shower
+    url: Tricks/3balltricks/BrokenShower.html
+  - name: Crossed-Arm Shower
+    url: Tricks/3balltricks/CrossedArmShower.html
+  - name: High-Low Var.
+    url: Tricks/3balltricks/High-LowShower.html
+  - name: Reverse Crossed-Arm Shower
+    url: Tricks/3balltricks/ReverseCrossedArmShower.html
+  - name: Swap Variation
+    url: Tricks/3balltricks/ShowerSwapVariation.html
+  - name: Underarm Var.
+    url: Tricks/3balltricks/UnderarmShower.html
+  navname: Shower
+- name: Shower Cascade
+  url: Tricks/3balltricks/Shower-Cascade.html
+  difficulty: 4
+  balls: 3
+  navname: Shower Cascade
+- name: 'Shower: Swap Variation'
+  url: Tricks/3balltricks/ShowerSwapVariation.html
+  difficulty: 5
+  balls: 3
+- name: Shuffle
+  url: Tricks/3balltricks/Shuffle.html
+  difficulty: 7
+  balls: 3
+  subtricks:
+  - name: Low Shuffle
+    url: Tricks/3balltricks/LowShuffle.html
+  navname: Shuffle
+- name: Shuffle-Switch
+  url: Tricks/3balltricks/Shuffle-Switch.html
+  difficulty: 3
+  balls: 3
+- name: Shuffler's Mess
+  url: Tricks/3balltricks/Shuffler'sMess.html
+  difficulty: 5
+  balls: 3
+  navname: Shuffler's Mess
+- name: "Singapore Shuffle"
+  url: Tricks/3balltricks/SingaporeShuffle.html
+  difficulty: 4
+  balls: 3
+- name: Six Ball Fountain
+  url: Tricks/6balltricks/SixBallFountain.html
+  difficulty: 9
+  balls: 6
+  navname: Six Ball Fountain
+- name: Snake
+  url: Tricks/3balltricks/Snake.html
+  difficulty: 4
+  balls: 3
+  navname: Snake
+- name: "Five Ball Split Multiplex Cascade"
+  url: Tricks/5balltricks/FiveBallSplitMultiplexCascade.html
+  difficulty: 6
+  balls: 5
+  navname: Split Cascade
+- name: Sprung Cascade
+  url: Tricks/4balltricks/SprungCascade.html
+  difficulty: 8
+  balls: 4
+  navname: Sprung Cascade
+- name: "Five Ball Stacked Multiplex Cascade"
+  url: Tricks/5balltricks/FiveBallStackedMultiplexCascade.html
+  difficulty: 7
+  balls: 5
+  navname: Stacked Cascade
+- name: Statue of Liberty
+  url: Tricks/3balltricks/StatueofLiberty.html
+  difficulty: 4
+  balls: 3
+  navname: Statue of Liberty
+- name: Swap Box
+  url: Tricks/3balltricks/SwapBox.html
+  difficulty: 6
+  balls: 3
+- name: Switched Box
+  url: Tricks/3balltricks/SwitchedBox.html
+  difficulty: 6
+  balls: 3
+- name: Symmetric Georgian Scuffle
+  url: Tricks/3balltricks/SymmetricGeorgianScuffle.html
+  difficulty: 6
+  balls: 3
+- name: Synchronous Fountain
+  url: Tricks/4balltricks/SynchFountain.html
+  difficulty: 7
+  balls: 4
+  subtricks:
+  - name: Reverse Variation
+    url: Tricks/4balltricks/ReverseSynchFountain.html
+  navname: Synchronous Fountain
+- name: Synchronous Pistons
+  url: Tricks/4balltricks/SynchPistons.html
+  difficulty: 6
+  balls: 4
+- name: Takearound
+  url: Tricks/3balltricks/Takearound.html
+  difficulty: 6
+  balls: 3
+  navname: Takearound
+- name: Four Ball Takeouts
+  url: Tricks/4balltricks/FourBallTakeouts.html
+  difficulty: 5
+  balls: 4
+  navname: Takeouts
+- name: Takeouts
+  url: Tricks/3balltricks/Takeouts.html
+  difficulty: 4
+  balls: 3
+- name: Tennessee Waltz
+  url: Tricks/4balltricks/TennesseeWaltz.html
+  difficulty: 6
+  balls: 4
+  navname: Tennessee Waltz
+- name: The W
+  url: Tricks/3balltricks/TheW.html
+  difficulty: 2
+  balls: 3
+- name: Threaded Box
+  url: Tricks/3balltricks/ThreadedBox.html
+  difficulty: 6
+  balls: 3
+- name: Three In One
+  url: Tricks/3balltricks/ThreeInOne.html
+  difficulty: 7
+  balls: 3
+  navname: Three In One
+- name: Tom's Trick
+  url: Tricks/3balltricks/Tom'sTrick.html
+  difficulty: 5
+  balls: 3
+  navname: Tom's Trick
+- name: Triazzle
+  url: Tricks/3balltricks/Triazzle.html
+  difficulty: 4
+  balls: 3
+  navname: Triazzle
+- name: True Box
+  url: Tricks/3balltricks/TrueBox.html
+  difficulty: 7
+  balls: 3
+- name: Truffle Shuffle
+  url: Tricks/3balltricks/TruffleShuffle.html
+  difficulty: 4
+  balls: 3
+  navname: Truffle Shuffle
+- name: Tsunami
+  url: Tricks/4balltricks/Tsunami.html
+  difficulty: 7
+  balls: 4
+  navname: Tsunami
+- name: Underarm Box
+  url: Tricks/3balltricks/UnderarmBox.html
+  difficulty: 6
+  balls: 3
+- name: Underarm Shower
+  url: Tricks/3balltricks/UnderarmShower.html
+  difficulty: 5
+  balls: 3
+- name: Weave
+  url: Tricks/3balltricks/Weave.html
+  difficulty: 4
+  balls: 3
+  subtricks:
+  - name: Orinoco Flow
+    url: Tricks/3balltricks/OrinocoFlow.html
+  navname: Weave
+- name: Wimpy
+  url: Tricks/4balltricks/Wimpy.html
+  difficulty: 5
+  balls: 4
+  navname: Wimpy
+- name: Four Ball Windmill
+  url: Tricks/4balltricks/FourBallWindmill.html
+  difficulty: 7
+  balls: 4
+  navname: Windmill
+- name: Windmill
+  url: Tricks/3balltricks/Windmill.html
+  difficulty: 5
+  balls: 3
+  subtricks:
+  - name: Chop Shower
+    url: Tricks/3balltricks/ChopShower.html
+  navname: Windmill
+- name: Yo-Yo
+  url: Tricks/3balltricks/Yo-Yo.html
+  difficulty: 2
+  balls: 3
+- name: Zebra Factory
+  url: Tricks/3balltricks/ZebraFactory.html
+  difficulty: 6
+  balls: 3
+- name: '423'
+  url: Tricks/3balltricks/423.html
+  difficulty: 2
+  balls: 3
+  subtricks:
+  - name: The W
+    url: Tricks/3balltricks/TheW.html
+  navname: '423'
+- name: 441 (Half-Box)
+  url: Tricks/3balltricks/Half-Box(441).html
+  difficulty: 4
+  balls: 3
+  subtricks:
+  - name: Reverse 441
+    url: Tricks/3balltricks/Reverse441(Half-Box).html
+  navname: 441 (Half-Box)
+- name: 441 Mills Mess
+  url: Tricks/3balltricks/441MillsMess.html
+  difficulty: 6
+  balls: 3
+- name: '531'
+  url: Tricks/3balltricks/531.html
+  difficulty: 5
+  balls: 3
+  navname: '531'
+- name: 531 Mills Mess
+  url: Tricks/3balltricks/531MillsMess.html
+  difficulty: 6
+  balls: 3
+- name: '534'
+  url: Tricks/4balltricks/534.html
+  difficulty: 7
+  balls: 4
+  navname: '534'
+- name: 534 Mills Mess
+  url: Tricks/4balltricks/534MillsMess.html
+  difficulty: 8
+  balls: 4
+- name: '552'
+  url: Tricks/4balltricks/552.html
+  difficulty: 4
+  balls: 4
+  navname: '552'
+- name: '5551'
+  url: Tricks/4balltricks/5551.html
+  difficulty: 5
+  balls: 4
+  navname: '5551'
+- name: '55550'
+  url: Tricks/4balltricks/55550.html
+  difficulty: 5
+  balls: 4
+  navname: '55550'

@@ -1,0 +1,15 @@
+---
+layout: default
+title: Tricks By Difficulty
+---
+
+<h1 id="difficultytitle">Tricks By Difficulty</h1>
+{%- for diff in (2..9) -%}
+    <p class="level">Level {{ diff }}</p>
+    <ul>
+    {%- assign filteredTricks = site.data.tricks | where: "difficulty", diff | sort: "name" -%}
+    {%- for trick in filteredTricks -%}
+        <li class="difficultytricks"><a href="{{ trick.url | prepend: "/" | relativize_url }}">{{ trick.name }}</a></li>
+    {%- endfor -%}
+    </ul>
+{%- endfor -%}			

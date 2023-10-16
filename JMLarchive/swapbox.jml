@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<!DOCTYPE jml SYSTEM "file://jml.dtd">
+<jml version="1.2">
+<pattern>
+<title>(6,2x)(2x,2x)*</title>
+<prop type="ball"/>
+<setup jugglers="1" paths="3" props="1,1,1"/>
+<symmetry type="delay" pperm="(1,2,3)" delay="1.2307"/>
+<symmetry type="switchdelay" jperm="(1,1*)" pperm="(1,3,2)"/>
+<event x="25" y="0" z="0" t="0" hand="1:right">
+<throw path="1" type="toss"/>
+</event>
+<event x="-18.5064" y="-0" z="0" t="0" hand="1:left">
+<throw path="2" type="toss"/>
+</event>
+<event x="18.0718" y="-0" z="0" t="0.1076" hand="1:right">
+<catch path="3"/>
+</event>
+<event x="-18.5375" y="-0" z="-0" t="0.1076" hand="1:left">
+<catch path="1"/>
+</event>
+<event x="23.6576" y="0" z="-1.5619" t="0.3076" hand="1:right">
+<throw path="3" type="toss"/>
+</event>
+<event x="-18.5644" y="0" z="7.8643" t="0.3076" hand="1:left">
+<throw path="1" type="toss"/>
+</event>
+<event x="-18.4445" y="0" z="-4.1302" t="0.4153" hand="1:left">
+<catch path="3"/>
+</event>
+<event x="25.8902" y="0" z="4.9319" t="0.4153" hand="1:right">
+<catch path="1"/>
+</event>
+</pattern>
+</jml>

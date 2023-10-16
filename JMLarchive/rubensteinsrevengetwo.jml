@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<!DOCTYPE jml SYSTEM "file://jml.dtd">
+<jml version="1.2">
+<pattern>
+<title>2233022</title>
+<prop type="ball"/>
+<setup jugglers="1" paths="2" props="1,1"/>
+<symmetry type="delay" pperm="(1)(2)" delay="3.1111"/>
+<symmetry type="switchdelay" jperm="(1,1*)" pperm="(1)(2)"/>
+<event x="17.7767" y="1.6316" z="6.5717" t="0.1165" hand="1:right">
+<holding path="1"/>
+</event>
+<event x="-19.926" y="-0.1117" z="5.769" t="0.1243" hand="1:left">
+<holding path="2"/>
+</event>
+<event x="-0.5097" y="1.6529" z="-11.1839" t="0.2566" hand="1:right">
+<holding path="1"/>
+</event>
+<event x="-0.4671" y="-0.0458" z="22.9127" t="0.2721" hand="1:left">
+<holding path="2"/>
+</event>
+<event x="17.035" y="-0.018" z="6.7867" t="0.4122" hand="1:left">
+<holding path="2"/>
+</event>
+<event x="-14.7804" y="1.2658" z="4.6361" t="0.4211" hand="1:right">
+<throw path="1" type="toss"/>
+</event>
+<event x="-6.9029" y="-1.7344" z="-5.7885" t="0.5444" hand="1:right">
+</event>
+<event x="-17.0109" y="0" z="10.416" t="0.6276" hand="1:left">
+<throw path="2" type="toss"/>
+</event>
+<event x="-1.1668" y="-2.1018" z="-8.616" t="0.7388" hand="1:right">
+</event>
+<event x="-0.7017" y="-0.021" z="36.2968" t="0.84" hand="1:left">
+</event>
+<event x="6.9947" y="0" z="19.5781" t="0.9077" hand="1:left">
+<catch path="1"/>
+</event>
+<event x="-3.9662" y="0.6692" z="-2.2772" t="0.9333" hand="1:right">
+</event>
+<event x="19.3525" y="0.2989" z="0.3806" t="1.1277" hand="1:left">
+<holding path="1"/>
+</event>
+<event x="-3.4243" y="0" z="-2.5229" t="1.1688" hand="1:right">
+<catch path="2"/>
+</event>
+<event x="-15.0421" y="-0.1409" z="-4.1448" t="1.3844" hand="1:right">
+<holding path="2"/>
+</event>
+<event x="18.5216" y="0.9148" z="-4.0667" t="1.3844" hand="1:left">
+<holding path="1"/>
+</event>
+<event x="0.1388" y="1.32" z="23.419" t="1.5398" hand="1:left">
+<holding path="1"/>
+</event>
+<event x="1.1692" y="-0.1547" z="-12.4289" t="1.5555" hand="1:right">
+<holding path="2"/>
+</event>
+</pattern>
+</jml>

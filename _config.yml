@@ -1,0 +1,11 @@
+title: The Library of Juggling
+email: libraryofjuggling@gmail.com
+description: >-
+  The Library of Juggling is an attempt to list all of the popular 
+  (and perhaps not so popular) juggling tricks in one organized place.
+baseurl: ""
+url: ""
+exclude:
+  - source/
+  - parse.py
+  - JMLarchive/

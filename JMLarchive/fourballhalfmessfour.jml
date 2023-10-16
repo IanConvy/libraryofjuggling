@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<!DOCTYPE jml SYSTEM "file://jml.dtd">
+<jml version="1.2">
+<pattern>
+<title>[42][42]4422</title>
+<prop type="ball"/>
+<setup jugglers="1" paths="4" props="1,1,1,1"/>
+<symmetry type="delay" pperm="(1,2)(3,4)" delay="1.4634"/>
+<event x="-18.6908" y="0" z="-1.3122" t="0" hand="1:right">
+<throw path="1" type="toss"/>
+<holding path="2"/>
+</event>
+<event x="12.4014" y="0" z="-3.6479" t="0.0146" hand="1:left">
+<holding path="3"/>
+<holding path="4"/>
+</event>
+<event x="10" y="0" z="0" t="0.1707" hand="1:right">
+<holding path="2"/>
+</event>
+<event x="-24.2448" y="0" z="1.3466" t="0.2475" hand="1:left">
+<throw path="3" type="toss"/>
+<holding path="4"/>
+</event>
+<event x="-10" y="0" z="0" t="0.4146" hand="1:left">
+<holding path="4"/>
+</event>
+<event x="19.2962" y="0" z="3.5261" t="0.4878" hand="1:right">
+<throw path="2" type="toss"/>
+</event>
+<event x="10.1297" y="-0" z="-12.5296" t="0.5634" hand="1:left">
+<holding path="4"/>
+</event>
+<event x="-0.7734" y="0" z="-0.6177" t="0.6585" hand="1:right">
+<catch path="1"/>
+</event>
+<event x="23.0137" y="0" z="-2.1664" t="0.7317" hand="1:left">
+<throw path="4" type="toss"/>
+</event>
+<event x="20.8932" y="0" z="-1.8012" t="0.7646" hand="1:left">
+</event>
+<event x="16.7438" y="0" z="-4.1188" t="0.8012" hand="1:left">
+</event>
+<event x="-14.4003" y="0" z="0.6972" t="0.8085" hand="1:right">
+<holding path="1"/>
+</event>
+<event x="-0.7004" y="-0" z="-0.6188" t="0.9024" hand="1:left">
+<catch path="3"/>
+</event>
+<event x="-16.3783" y="0" z="1.3712" t="0.9036" hand="1:right">
+<holding path="1"/>
+</event>
+<event x="14.7797" y="0" z="-3.1587" t="1.1231" hand="1:left">
+<holding path="3"/>
+</event>
+<event x="-1.0318" y="0" z="-0.6411" t="1.1463" hand="1:right">
+<catch path="2"/>
+<holding path="1"/>
+</event>
+<event x="-20.5752" y="0" z="0.6591" t="1.3646" hand="1:right">
+<holding path="1"/>
+<holding path="2"/>
+</event>
+<event x="-0.814" y="0" z="-0.8067" t="1.3902" hand="1:left">
+<catch path="4"/>
+<holding path="3"/>
+</event>
+</pattern>
+</jml>

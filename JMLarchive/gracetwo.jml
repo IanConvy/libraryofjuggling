@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<!DOCTYPE jml SYSTEM "file://jml.dtd">
+<jml version="1.2">
+<pattern>
+<title>[31]20</title>
+<prop type="ball"/>
+<setup jugglers="1" paths="2" props="1,1"/>
+<symmetry type="delay" pperm="(1)(2)" delay="2.0689"/>
+<symmetry type="switchdelay" jperm="(1,1*)" pperm="(1)(2)"/>
+<event x="-18.8557" y="-0" z="49.3948" t="0.0844" hand="1:left">
+<catch path="2"/>
+</event>
+<event x="-32.2631" y="0" z="35.0288" t="0.1862" hand="1:left">
+<holding path="2"/>
+</event>
+<event x="19.9047" y="0" z="0" t="0.2413" hand="1:right">
+</event>
+<event x="-30" y="0" z="0" t="0.3275" hand="1:left">
+<catch path="1"/>
+<holding path="2"/>
+</event>
+<event x="-1.8152" y="-0" z="-14.8818" t="0.5482" hand="1:left">
+<holding path="1"/>
+<holding path="2"/>
+</event>
+<event x="24.8571" y="0" z="0" t="0.6896" hand="1:right">
+</event>
+<event x="8.8033" y="-0" z="0" t="0.8344" hand="1:left">
+<throw path="1" type="toss"/>
+<throw path="2" type="toss"/>
+</event>
+<event x="5.8381" y="0" z="36.9674" t="0.9103" hand="1:right">
+</event>
+</pattern>
+</jml>

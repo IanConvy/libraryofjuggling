@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<!DOCTYPE jml SYSTEM "file://jml.dtd">
+<jml version="1.2">
+<pattern>
+<title>(4,4)(4x,0)*</title>
+<prop type="ball"/>
+<setup jugglers="1" paths="3" props="1,1,1"/>
+<symmetry type="delay" pperm="(1)(2)(3)" delay="2.3529"/>
+<symmetry type="switchdelay" jperm="(1,1*)" pperm="(1,2)(3)"/>
+<event x="23.5656" y="-0" z="0" t="0" hand="1:right">
+<throw path="1" type="toss"/>
+</event>
+<event x="-23.5656" y="0" z="-0.2886" t="0" hand="1:left">
+<throw path="2" type="toss"/>
+</event>
+<event x="23.8485" y="0" z="-0" t="0.2058" hand="1:right">
+</event>
+<event x="0.6971" y="-0" z="0.0186" t="0.2058" hand="1:left">
+<catch path="3"/>
+</event>
+<event x="23.8387" y="0" z="-0" t="0.5882" hand="1:right">
+</event>
+<event x="0.9739" y="0" z="-0.0005" t="0.5882" hand="1:left">
+<throw path="3" type="toss"/>
+</event>
+<event x="-23.5411" y="0" z="-0.2887" t="0.7941" hand="1:left">
+<catch path="2"/>
+</event>
+<event x="23.8111" y="0" z="-0" t="0.7941" hand="1:right">
+<catch path="1"/>
+</event>
+</pattern>
+</jml>

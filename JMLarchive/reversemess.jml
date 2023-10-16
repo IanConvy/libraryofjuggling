@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<!DOCTYPE jml SYSTEM "file://jml.dtd">
+<jml version="1.2">
+<pattern>
+<title>3 Mills</title>
+<prop type="ball"/>
+<setup jugglers="1" paths="3" props="1,1,1"/>
+<symmetry type="delay" pperm="(1)(2)(3)" delay="1.7142"/>
+<symmetry type="switchdelay" jperm="(1,1*)" pperm="(1)(2)(3)"/>
+<event x="4.0089" y="-0" z="-0.4756" t="0" hand="1:right">
+<throw path="1" type="toss"/>
+</event>
+<event x="-23.998" y="0.1862" z="0.7162" t="0.1999" hand="1:right">
+<catch path="3"/>
+</event>
+<event x="-0.9487" y="-0.2101" z="-0.2382" t="0.2857" hand="1:left">
+<throw path="2" type="toss"/>
+</event>
+<event x="25.8871" y="0" z="0.4772" t="0.4857" hand="1:left">
+<catch path="1"/>
+</event>
+<event x="-4.9465" y="0.1624" z="0.2386" t="0.5714" hand="1:right">
+<throw path="3" type="toss"/>
+</event>
+<event x="24.7754" y="-0" z="-0.4764" t="0.7714" hand="1:right">
+<catch path="2"/>
+</event>
+</pattern>
+</jml>

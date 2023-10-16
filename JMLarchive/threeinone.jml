@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!DOCTYPE jml SYSTEM "file://jml.dtd">
+<jml version="1.2">
+<pattern>
+<title>60</title>
+<prop type="ball"/>
+<setup jugglers="1" paths="3" props="1,1,1"/>
+<symmetry type="delay" pperm="(1,2,3)" delay="0.4"/>
+<event x="5" y="0" z="0" t="0" hand="1:right">
+<throw path="1" type="toss"/>
+</event>
+<event x="45" y="0" z="0" t="0.14" hand="1:right">
+<catch path="2"/>
+</event>
+<event x="-25" y="0" z="0" t="0.2" hand="1:left">
+</event>
+<event x="-25" y="0" z="0" t="0.34" hand="1:left">
+</event>
+</pattern>
+</jml>

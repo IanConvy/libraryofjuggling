@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<!DOCTYPE jml SYSTEM "file://jml.dtd">
+<jml version="1.2">
+<pattern>
+<title>515151</title>
+<prop type="ball"/>
+<setup jugglers="1" paths="3" props="1,1,1"/>
+<symmetry type="delay" pperm="(1)(2)(3)" delay="1.1707"/>
+<event x="5.7818" y="0" z="0.2715" t="0" hand="1:right">
+<throw path="1" type="toss"/>
+</event>
+<event x="-20" y="0" z="0" t="0.1287" hand="1:left">
+<throw path="2" type="toss"/>
+</event>
+<event x="18.3248" y="0" z="-0" t="0.2634" hand="1:right">
+<catch path="2"/>
+</event>
+<event x="-34.2624" y="0" z="-1.0475" t="0.3317" hand="1:left">
+<catch path="3"/>
+</event>
+<event x="5.7818" y="0" z="0.2715" t="0.3902" hand="1:right">
+<throw path="2" type="toss"/>
+</event>
+<event x="-20" y="0" z="0" t="0.5219" hand="1:left">
+<throw path="3" type="toss"/>
+</event>
+<event x="22.0434" y="0" z="-6.3982" t="0.6204" hand="1:left">
+</event>
+<event x="18.3248" y="0" z="-0" t="0.6536" hand="1:right">
+<catch path="3"/>
+</event>
+<event x="27.8866" y="0" z="-4.988" t="0.6614" hand="1:left">
+</event>
+<event x="15.0396" y="0" z="3.417" t="0.676" hand="1:right">
+<holding path="3"/>
+</event>
+<event x="36.1112" y="0" z="-3.7895" t="0.7219" hand="1:left">
+<catch path="1"/>
+</event>
+<event x="8.4716" y="0" z="2.9599" t="0.7317" hand="1:right">
+<holding path="3"/>
+</event>
+<event x="5.7818" y="0" z="0.2715" t="0.7804" hand="1:right">
+<throw path="3" type="toss"/>
+</event>
+<event x="2.7841" y="0" z="0.2398" t="0.959" hand="1:left">
+<throw path="1" type="toss"/>
+</event>
+<event x="18.1811" y="0" z="0" t="1.0439" hand="1:right">
+<catch path="1"/>
+</event>
+<event x="-33.9818" y="0" z="-0.787" t="1.1121" hand="1:left">
+<catch path="2"/>
+</event>
+</pattern>
+</jml>

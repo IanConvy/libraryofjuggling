@@ -1,0 +1,195 @@
+﻿body {
+	background-color: #000000;
+	width: 936px;
+	height: auto;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 8px;
+}
+
+#sidebar {
+	width: 190px;
+	font-size: 1.1em;
+	background-color: #FFFFFF;
+	border: medium ridge #FF0000;
+	float: left;
+	margin-right: 0px;
+	margin-left: 6px;
+	min-height: 634px;
+	height: auto;
+	margin-bottom:15px
+}
+
+#sidebar ul {
+        padding:5px;
+        padding-top:0px;
+        padding-right:0px;
+}
+
+#sidebar ul li ul {
+        padding-left:20px;
+}
+
+#sidebar ul li {
+        list-style-type:none;
+        padding-left:0;
+}
+
+#sidebar ul li ul li {
+        list-style-type:disc;
+}
+
+#sidebar h3 {
+	text-align:center;
+	margin-right: 5px
+}
+
+#navheader{
+	font-family: "Times New Roman", Times, serif;
+	text-align: center;
+	font-size: xx-large;
+	border-bottom-style: solid;
+	border-bottom-width: medium;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+#banner {
+	border-style: ridge;
+	border-color: #FF0000;
+	margin: 0px auto 10px auto;
+	float: right;
+}
+
+#content {
+	background-color: #FFFFFF;
+	float: right;
+	width: 716px;
+	margin-right: 0px;
+	border: medium ridge #FF0000;
+	margin-left: 0px;
+	margin-bottom: 0px;
+	height: auto;
+}
+
+#footer {
+	margin: 10px 0px 10px 0px;
+	background-color: #FFFFFF;
+	float: right;
+	width: 716px;
+	border: medium ridge #FF0000;
+	height: auto;
+	text-align: center;
+	font-weight: bold;
+}
+
+.hometext {
+	font-size: large;
+	padding-left: 4px;
+	padding-right: 4px;
+}
+
+.hometitle {
+	font-size: xx-large;
+	text-decoration: underline;
+	margin-top: 16px;
+	margin-bottom: 16px;
+}
+
+.homeupdate {
+	font-size: x-large;
+}
+
+.updatetitle {
+	font-size: xx-large;
+	text-align: center;
+	margin-top: 16px;
+	margin-bottom: 16px;
+}
+
+.level {
+	font-size: 2.3em;
+	text-align: center;
+	display: block;
+	text-decoration: underline;
+	margin-top: 16px;
+	margin-bottom: 16px;
+}
+
+.difficultytricks {
+	font-size: large;
+	font-weight: bold;
+	margin-top: 18px;
+	margin-bottom: 18px;
+}
+
+.smallanim {
+	display: block;
+	width: 165px;
+	height: 165px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#description {
+	padding-right: 5px;
+	padding-left: 5px;
+}
+
+#Trickname {
+	margin: 1px 0px 1px 0px;
+	font-family: "Times New Roman", Times, serif;
+	text-align: center;
+	font-size: 3em;
+}
+
+#difficultytitle {
+	margin: 1px 0px 1px 0px;
+	font-family: "Times New Roman", Times, serif;
+	text-align: center;
+	font-size: 2.5em;
+}
+
+#jugglinganimation {
+	position: static;
+	border-style: solid;
+	border-width: thin;
+	display: block;
+	margin-right: 0px;
+	margin-left: 245px;
+}
+
+#tutoriallist {
+	margin: 0px;
+	display: block;
+	width: auto;
+	float: left;
+	border-style: solid;
+	border-width: thin;
+	list-style-type: none;
+	text-align: left;
+	margin-left: 5px
+}
+
+#otherinfo {
+	border-style: solid;
+	border-width: thin;
+	padding: 0px;
+	display: block;
+	float: right;
+	margin: 0px;
+	width: 172px;
+	list-style-type: none;
+	margin-right: 5px
+}
+
+#other_tutorials_title {
+	width: 220px;
+	margin-top: 5px;
+	margin-left:5px
+}
+
+.notfound {
+	text-align: center;
+}
